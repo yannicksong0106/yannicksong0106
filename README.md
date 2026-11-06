@@ -32,8 +32,8 @@ Updates? What's an update? Never heard of it.
 
 |  | MODULE | 说明 | LANG | ★ |
 |:--:|---|---|---|--:|
-| ● | **[dsh-550c-boot](https://github.com/yannicksong0106/dsh-550c-boot)** | 开机动画，首帧由宿主半边注入，加载卡片不露脸 | JS | 221 |
-| ● | **[dsh-550c-skin](https://github.com/yannicksong0106/dsh-550c-skin)** | 把 DSH 刷成 550C 控制台：四套磷光配色、扫描线、读数栏 | JS | 10 |
+| ● | **[dsh-550c-boot](https://github.com/yannicksong0106/dsh-550c-boot)** | 开机动画，首帧由宿主半边注入，加载卡片不露脸 | JS | 223 |
+| ● | **[dsh-550c-skin](https://github.com/yannicksong0106/dsh-550c-skin)** | 把 DSH 刷成 550C 控制台：四套磷光配色、扫描线、读数栏 | JS | 11 |
 | ◐ | **[dsh-community-plugins](https://github.com/yannicksong0106/dsh-community-plugins)** | 插件索引，community.json 是商店的唯一数据源 | TS | — |
 | ○ | **[awesome-dsh-plugin](https://github.com/yannicksong0106/awesome-dsh-plugin)** | DeepSeek Harness 插件精选列表 | JS | — |
 
