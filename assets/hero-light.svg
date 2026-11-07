@@ -76,7 +76,7 @@ text{font-family:ui-monospace,'SF Mono','Cascadia Mono','Roboto Mono',Menlo,Cons
 <text x="42" y="331" class="k" opacity="0.75">STATUS</text>
 <text x="112" y="331" class="v">SHIPPING</text>
 <rect x="42" y="342" width="264" height="1" fill="#CFC8B4"/>
-<text x="42" y="364" class="lbl" opacity="0.65">BUILD 1106 / PHOSPHOR</text>
+<text x="42" y="364" class="lbl" opacity="0.65">BUILD 1107 / PHOSPHOR</text>
 <rect x="24" y="80" width="300" height="300" fill="none" stroke="#CFC8B4"/>
 <text x="344" y="97" class="k">POST / COLD BOOT</text>
 <rect x="344" y="106" width="280" height="1" fill="#CFC8B4"/>
@@ -84,7 +84,7 @@ text{font-family:ui-monospace,'SF Mono','Cascadia Mono','Roboto Mono',Menlo,Cons
 <text x="344" y="153" class="v" fill="#16241A" opacity="0.88">CPU   human / 1 core</text>
 <text x="344" y="176" class="v" fill="#16241A" opacity="0.88">MEM   check .......... OK</text>
 <text x="344" y="199" class="v" fill="#16241A" opacity="0.88">SKIN  phosphor-amber .. OK</text>
-<text x="344" y="222" class="v" fill="#16241A" opacity="0.88">MOD   dsh-550c-boot   ........ 223</text>
+<text x="344" y="222" class="v" fill="#16241A" opacity="0.88">MOD   dsh-550c-boot   ........ 225</text>
 <text x="344" y="245" class="v" fill="#16241A" opacity="0.88">MOD   dsh-550c-skin   ........  11</text>
 <text x="344" y="268" class="v" fill="#16241A" opacity="0.88">MOD   qq-email-skill  ........   3</text>
 <text x="344" y="291" class="v" fill="#16241A" opacity="0.88">NET   changsha.cn . LINKED</text>
@@ -116,7 +116,7 @@ text{font-family:ui-monospace,'SF Mono','Cascadia Mono','Roboto Mono',Menlo,Cons
 <text x="107.2" y="417" text-anchor="middle" class="lbl">REPOS</text>
 <text x="107.2" y="436" text-anchor="middle" class="num">6</text>
 <text x="273.6" y="417" text-anchor="middle" class="lbl">STARS</text>
-<text x="268.6" y="436" text-anchor="middle" class="num">238</text>
+<text x="268.6" y="436" text-anchor="middle" class="num">240</text>
 <polygon points="291.60,426.00 292.83,429.30 296.36,429.45 293.60,431.65 294.54,435.05 291.60,433.10 288.66,435.05 289.60,431.65 286.84,429.45 290.37,429.30" fill="#0F5A34"/>
 <text x="440.0" y="417" text-anchor="middle" class="lbl">FORKS</text>
 <text x="435.0" y="436" text-anchor="middle" class="num">14</text>
